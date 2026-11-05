@@ -1,0 +1,3 @@
+API_URL=https://rickandmortyapi.com/api/character
+#Este comando crea un archivo oculto llamado .env en tu entorno de Colab con la URL guardada de forma segura, 
+evitando el "hardcoding" 
